@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: darkred;
+  color: white;
+}
+
+button{
+  background-color: darkgreen;
+  color: white;
+}
